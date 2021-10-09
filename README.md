@@ -1,1 +1,1 @@
-# stop motion butterfly with comments
+# simple caterpillar game for anybody freaking out about midterm project!
